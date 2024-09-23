@@ -49,8 +49,4 @@ This project implements a feature that allows users to update their email addres
        - The new email is not the same as the current email.
    - If all checks pass, the new email is saved to the user's record.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourproject.git
